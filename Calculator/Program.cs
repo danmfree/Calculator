@@ -29,7 +29,7 @@ class Calculator
 
     public static double Subtract(double a, double b)
     {
-        return 0;
+        return a-b;
     }
 
 
@@ -46,7 +46,7 @@ class Calculator
             return 0; 
         }
 
-        return 0;
+        return a/b;
     }
 
 }
