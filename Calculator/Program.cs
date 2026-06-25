@@ -35,7 +35,7 @@ class Calculator
 
     public static double Multiply(double a, double b)
     {
-        return 0;
+        return a*b;
     }
 
 
