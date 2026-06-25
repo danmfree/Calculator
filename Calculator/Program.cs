@@ -21,12 +21,9 @@ class Calculator
         Console.ReadKey();
     }
 
-
-    // Everyone will work below this line
-
     public static double Add(double a, double b)
     {
-        return 0;
+        return a+b;
     }
 
 
