@@ -44,6 +44,11 @@ class Calculator
 
     public static double Divide(double a, double b)
     {
+        if (b == 0)
+        {
+            return 0; 
+        }
+
         return 0;
     }
 
